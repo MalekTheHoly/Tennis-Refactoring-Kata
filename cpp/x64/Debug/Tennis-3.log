@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tennis-1.vcxproj, Tennis-2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  all_tests.cpp
-  tennis3.cc
-  test_suite.tests.cpp
-  Generating Code...
-  Tennis-3.vcxproj -> E:\GEM-Refactor\Tennis-Refactoring-Kata\cpp\x64\Debug\Tennis-3.exe
